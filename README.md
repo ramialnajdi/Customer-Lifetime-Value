@@ -54,18 +54,5 @@ The analysis resulted in accurate predictions of Customer Lifetime Value. Custom
 
 ## Usage
 
-To reproduce the analysis, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/ramialnajdi/Customer-Lifetime-Value.git
-    ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Jupyter notebook:
-    ```bash
-    jupyter notebook Costumer_lifetime_value.ipynb
-    ```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1grFvMHe24FciYO3ldwbt0VnvWNia0UD4?usp=sharing)
 
