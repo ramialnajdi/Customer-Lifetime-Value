@@ -42,8 +42,8 @@ The project follows these steps:
 2. **Data Preprocessing:** Cleaned and prepared the data for analysis.
 3. **Feature Engineering:** Created features necessary for modeling CLV.
 4. **Modeling:**
-   - Used the **BG/NBD** model to predict the number of transactions. [pepar](https://www.brucehardie.com/notes/025/gamma_gamma.pdf)
-   - Used the **Gamma-Gamma** model to predict the monetary value of transactions.[pepar](https://www.brucehardie.com/notes/025/gamma_gamma.pdf)
+   - Used the **BG/NBD** model to predict the number of transactions. [pepar](https://www.brucehardie.com/papers/bgnbd_2004-04-20.pdf)
+   - Used the **Gamma-Gamma** model to predict the monetary value of transactions. [pepar](https://www.brucehardie.com/notes/025/gamma_gamma.pdf)
 5. **Prediction:** Combined the results from both models to predict the Customer Lifetime Value.
 6. **Customer Segmentation:** Segmented customers based on their predicted CLV.
 7. **Visualization:** Visualized the results using various plots and charts.
