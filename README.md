@@ -59,7 +59,6 @@ To reproduce the analysis, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/ramialnajdi/Customer-Lifetime-Value.git
-    cd CLV-Analysis
     ```
 2. Install the required libraries:
     ```bash
@@ -67,6 +66,6 @@ To reproduce the analysis, follow these steps:
     ```
 3. Run the Jupyter notebook:
     ```bash
-    jupyter notebook Customer-Lifetime-Value.ipynb
+    jupyter notebook Costumer_lifetime_value.ipynb
     ```
 
